@@ -61,5 +61,5 @@
   </a>
 </p>
 <div align="center">
-  <img src="[YOUR_UPLOADED_IMAGE_URL_HERE](https://i.postimg.cc/xCHt4kSK/Gemini-Generated-Image-mnfudjmnfudjmnfu.jpg)" alt="Biman Ranasinghe Intro Banner" width="100%" />
+  <img src="https://i.postimg.cc/xCHt4kSK/Gemini-Generated-Image-mnfudjmnfudjmnfu.jpg" alt="Biman Ranasinghe Intro Banner" width="100%" />
 </div>

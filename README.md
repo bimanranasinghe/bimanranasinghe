@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:ff6a00&height=300&section=header&text=RAN%20BIMAN%20RANASINGHE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Content%20Creator%20•%20Video%20Editor%20•%20Tech%20Enthusiast&descAlignY=52&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:ff6a00&height=280&section=header&text=RAN%20BIMAN%20RANASINGHE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Content%20Creator%20•%20Video%20Editor%20•%20Tech%20Enthusiast&descAlignY=52&descSize=20" width="100%"/>
 
 <div align="center">
 
@@ -55,10 +55,6 @@ fun_fact:            "I'll fine-tune a 70s edit for hours till it's perfect"
 
 <sub>✅ Auto-generated from public commit history — no account linking needed</sub>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%">
-
 </td>
 </tr>
 </table>
@@ -86,25 +82,18 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Video R&D
-Experimenting with Runway Gen-4, Kling, Veo3 & Seedance for cinematic prompt-driven shorts — pushing 9:16 vertical formats for social-first storytelling.
-
-`#AIVideo` `#PromptEngineering` `#Vertical`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Motion Graphics Lab
-Leveling up in After Effects expressions & 3D compositing to bring broadcast-quality motion design into short-form edits.
-
-`#AfterEffects` `#MotionDesign` `#3D`
-
-</td>
-</tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimanranasinghe&repo=biman-org&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimanranasinghe&repo=REPLACE_WITH_REPO_NAME&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<sub>⚠️ Replace `REPLACE_WITH_REPO_NAME` with an actual repo name — pin cards only render for real, public repos.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
 
@@ -138,13 +127,9 @@ Leveling up in After Effects expressions & 3D compositing to bring broadcast-qua
 
 **AI & Tools**
 <br>
-<img src="https://img.shields.io/badge/Runway-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Runway-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=capcut,ae,ps,figma,js,react,nodejs,git,mysql,cpp,python,html,css&theme=dark" />
 
 </div>
 
@@ -153,8 +138,8 @@ Leveling up in After Effects expressions & 3D compositing to bring broadcast-qua
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimanranasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimanranasinghe&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bimanranasinghe&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimanranasinghe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -162,15 +147,29 @@ Leveling up in After Effects expressions & 3D compositing to bring broadcast-qua
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bimanranasinghe&theme=tokyonight&no-frame=true&row=1&column=6" width="80%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bimanranasinghe&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimanranasinghe/bimanranasinghe/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimanranasinghe/bimanranasinghe/output/github-contribution-grid-snake.svg" />
-    <img alt="snake contribution animation" src="https://raw.githubusercontent.com/bimanranasinghe/bimanranasinghe/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bimanranasinghe&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bimanranasinghe/bimanranasinghe/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+> ⚠️ Needs the [snk GitHub Action](https://github.com/Platane/snk) set up in a repo named exactly `bimanranasinghe` to render live.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
@@ -178,14 +177,8 @@ Leveling up in After Effects expressions & 3D compositing to bring broadcast-qua
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.youtube.com/@usanizone" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
   <a href="https://instagram.com/bimanranasinghe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://biman-org.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -193,10 +186,9 @@ Leveling up in After Effects expressions & 3D compositing to bring broadcast-qua
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@usanizone" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
-
-<div align="center">
-<sub>⭐ From anime frame-by-frame edits to AI-generated cinematic shorts — always building.</sub>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:6a11cb,100:0e75b6&height=180&section=footer" width="100%"/>

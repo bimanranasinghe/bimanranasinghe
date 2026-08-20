@@ -6,11 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=bimanranasinghe&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </p>
 
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=bimanranasinghe&theme=dracula&margin-w=15" alt="Trophies" />
-    </a>
-  </p>
+ 
 </div>
 
 <hr />

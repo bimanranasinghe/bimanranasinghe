@@ -96,17 +96,6 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
 
-## 📌 Featured Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimanranasinghe&repo=biman-org&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimanranasinghe&repo=usanizone&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<sub>⚠️ Pin cards only render for real, public repos — swap the repo names above for your actual repos (edit the `repo=` value in each URL).</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -151,10 +140,6 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimanranasinghe&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimanranasinghe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bimanranasinghe&theme=tokyonight&hide_border=true" width="60%" />
@@ -168,25 +153,10 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bimanranasinghe&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bimanranasinghe/bimanranasinghe/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-> ⚠️ Needs the [snk GitHub Action](https://github.com/Platane/snk) set up in a repo named exactly `bimanranasinghe` to render live.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
 
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
 
 ## 📫 Let's Connect
 
@@ -205,6 +175,5 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:6a11cb,100:0e75b6&height=180&section=footer" width="100%"/>

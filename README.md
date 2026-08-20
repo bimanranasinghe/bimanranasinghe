@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:ff6a00&height=280&section=header&text=RAN%20BIMAN%20RANASINGHE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Content%20Creator%20•%20Video%20Editor%20•%20Tech%20Enthusiast&descAlignY=52&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:ff6a00&height=300&section=header&text=RAN%20BIMAN%20RANASINGHE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Content%20Creator%20•%20Video%20Editor%20•%20Tech%20Enthusiast&descAlignY=52&descSize=20" width="100%"/>
 
 <div align="center">
 
@@ -82,9 +82,25 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
+### 🤖 AI Video R&D
+Experimenting with Runway Gen-4, Kling, Veo3 & Seedance for cinematic prompt-driven shorts — pushing 9:16 vertical formats for social-first storytelling.
+
+`#AIVideo` `#PromptEngineering` `#Vertical`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Motion Graphics Lab
+Leveling up in After Effects expressions & 3D compositing to bring broadcast-quality motion design into short-form edits.
+
+`#AfterEffects` `#MotionDesign` `#3D`
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
 
@@ -118,7 +134,7 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
 
 **AI & Tools**
 <br>
-<img src="https://img.shields.io/badge/Runway-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
+<img src="https://img.shields.io/badge/Runway-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 
@@ -129,17 +145,37 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bimanranasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimanranasinghe&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=bimanranasinghe&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bimanranasinghe&theme=tokyonight&no-frame=true&row=1&column=6" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bimanranasinghe/bimanranasinghe/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+<sub>💡 The snake animation above needs a one-time GitHub Action set up on your profile repo — happy to write that workflow file for you if you want it live.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
 
 ## 📫 Let's Connect
 
 <p align="center">
+  <a href="https://www.youtube.com/@usanizone" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
   <a href="https://instagram.com/bimanranasinghe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://biman-org.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -147,9 +183,10 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@usanizone" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
+
+<div align="center">
+<sub>⭐ From anime frame-by-frame edits to AI-generated cinematic shorts — always building.</sub>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:6a11cb,100:0e75b6&height=180&section=footer" width="100%"/>

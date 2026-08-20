@@ -51,9 +51,9 @@ fun_fact:            "I'll fine-tune a 70s edit for hours till it's perfect"
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bimanranasinghe&theme=tokyonight&hide_border=true&layout=compact" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bimanranasinghe&theme=tokyonight&utcOffset=5.5" width="100%"/>
 
-<sub>⚠️ Wakatime card needs a linked WakaTime account to populate</sub>
+<sub>✅ Auto-generated from public commit history — no account linking needed</sub>
 
 </td>
 </tr>
@@ -85,15 +85,6 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
-
-## 📌 Featured Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimanranasinghe&repo=biman-org&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimanranasinghe&repo=REPLACE_WITH_REPO_NAME&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<sub>⚠️ Replace `REPLACE_WITH_REPO_NAME` with an actual repo name — pin cards only render for real, public repos.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
 
@@ -152,24 +143,6 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bimanranasinghe&theme=tokyo-night&hide_border=true" width="90%"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bimanranasinghe/bimanranasinghe/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-> ⚠️ Needs the [snk GitHub Action](https://github.com/Platane/snk) set up in a repo named exactly `bimanranasinghe` to render live.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
-
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>

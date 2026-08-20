@@ -129,11 +129,6 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimanranasinghe&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimanranasinghe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=bimanranasinghe&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 

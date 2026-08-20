@@ -1,94 +1,147 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:ff6a00&height=250&section=header&text=RAN%20BIMAN%20RANASINGHE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Content%20Creator%20•%20Video%20Editor%20•%20Tech%20Enthusiast&descAlignY=55&descSize=19" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=R%20A%20N%20BIMAN%20RANASINGHE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Content%20Creator%20%7C%20Video%20Editor%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=650&lines=Founder+%40+USANIZONE;Anime+Edits+%7C+Automotive+Content;Motion+Graphics+%26+3D+Learner;Turning+Raw+Clips+Into+Viral+Edits" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Anime+Edits+%7C+Automotive+Content;Founder+of+USANIZONE;Motion+Graphics+%26+3D+Learner;Building+biman-org.vercel.app" alt="Typing SVG" />
+<br>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=bimanranasinghe&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Collabs-brightgreen?style=for-the-badge" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=bimanranasinghe&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍_Sri_Lanka-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open_for_Collabs-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/bimanranasinghe?label=Followers&style=for-the-badge&color=0e75b6" />
 
 </div>
 
-<hr>
+<br>
 
-### 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
+
+## 🧭 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```yaml
-name: Biman Ranasinghe
-role: Content Creator & Video Editor
-based_in: Sri Lanka 🇱🇰
-currently_building: USANIZONE (Anime Edits & Automotive Content)
+name:              Biman Ranasinghe
+role:              Content Creator & Video Editor
+based_in:          Sri Lanka 🇱🇰
+currently_building: USANIZONE — Anime Edits & Automotive Content
 currently_learning: Motion Graphics & 3D Video Editing
-open_to: Video Editing | Automotive Projects | Tech Customizations
-need_help_with: Advanced After Effects Expressions & Motion Graphics
-portfolio: biman-org.vercel.app
-fun_fact: "I can spend hours fine-tuning a 70-second video edit to perfection!"
+open_to:           Video Editing | Automotive Projects | Tech Customizations
+looking_for_help:  Advanced After Effects Expressions & Motion Graphics
+portfolio:         biman-org.vercel.app
+fun_fact:          "I'll fine-tune a 70s edit for hours till it's perfect"
 ```
 
-<hr>
+</td>
+<td width="40%" valign="top" align="center">
 
-### 🛠️ Languages & Tools
+<img src="https://raw.githubusercontent.com/matiassingers/emoji-css/master/dist/twitter.css" width="1" height="1"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,mysql,git,figma,photoshop&theme=dark" />
-</p>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
+
+## 🎬 What I'm Working On
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 🐾 USANIZONE
+Anime short-form edits (One Piece, Demon Slayer, AOT) built for retention + shares. Grinding toward YPP eligibility with a hybrid short/long-form strategy.
+
+</td>
+<td width="50%">
+
+### 🚗 Automotive Edits
+Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, styled for viral hooks and emotional pacing.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+**Editing & Design**
+<br>
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+**Dev & Web**
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**Core Languages**
+<br>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimanranasinghe&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Biman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimanranasinghe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bimanranasinghe&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimanranasinghe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bimanranasinghe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=bimanranasinghe&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bimanranasinghe&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bimanranasinghe&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bimanranasinghe&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
 
-### 📈 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bimanranasinghe/bimanranasinghe/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-> ⚠️ To activate the snake animation above, add the [snk GitHub Action](https://github.com/Platane/snk) to a repo named exactly like your username.
+> ⚠️ Needs the [snk GitHub Action](https://github.com/Platane/snk) set up in a repo named exactly `bimanranasinghe` to render live.
 
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
 
-### 📫 Connect with me
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://instagram.com/bimanranasinghe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://biman-org.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:6a11cb,100:0e75b6&height=150&section=footer" width="100%"/>

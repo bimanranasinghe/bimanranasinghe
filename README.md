@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:ff6a00&height=280&section=header&text=R.A.N%20BIMAN%20RANASINGHE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Content%20Creator%20•%20Video%20Editor%20•%20Tech%20Enthusiast&descAlignY=52&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:ff6a00&height=280&section=header&text=RAN%20BIMAN%20RANASINGHE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Content%20Creator%20•%20Video%20Editor%20•%20Tech%20Enthusiast&descAlignY=52&descSize=20" width="100%"/>
 
 <div align="center">
 
@@ -48,12 +48,18 @@ portfolio:           biman-org.vercel.app
 fun_fact:            "I'll fine-tune a 70s edit for hours till it's perfect"
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=700&color=FF6A00&center=false&vCenter=true&width=500&lines=%22Every+frame+is+a+decision.%22;%22Cut+on+the+beat%2C+not+the+clock.%22;%22Render+it+till+it+hurts.%22" alt="Quote Typing SVG"/>
+
 </td>
 <td width="40%" valign="top" align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bimanranasinghe&theme=tokyonight&utcOffset=5.5" width="100%"/>
 
 <sub>✅ Auto-generated from public commit history — no account linking needed</sub>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%">
 
 </td>
 </tr>
@@ -72,6 +78,8 @@ Anime short-form edits (One Piece, Demon Slayer, AOT) built for retention + shar
 
 `#AnimeEdits` `#ShortForm` `#YouTube`
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=800&color=0E75B6&center=false&vCenter=true&width=400&lines=Editing+another+one+piece+clip...;Optimizing+for+YPP+watch+hours..." alt="usanizone status"/>
+
 </td>
 <td width="50%" valign="top">
 
@@ -79,6 +87,8 @@ Anime short-form edits (One Piece, Demon Slayer, AOT) built for retention + shar
 Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, styled for viral hooks and emotional pacing.
 
 `#CarEdits` `#CapCut` `#Facebook`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=800&color=FF6A00&center=false&vCenter=true&width=400&lines=Syncing+cuts+to+slowed+%2B+reverb...;Grading+another+AMG+edit..." alt="automotive status"/>
 
 </td>
 </tr>
@@ -90,10 +100,10 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimanranasinghe&repo=biman-org&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimanranasinghe&repo=REPLACE_WITH_REPO_NAME&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimanranasinghe&repo=usanizone&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<sub>⚠️ Replace `REPLACE_WITH_REPO_NAME` with an actual repo name — pin cards only render for real, public repos.</sub>
+<sub>⚠️ Pin cards only render for real, public repos — swap the repo names above for your actual repos (edit the `repo=` value in each URL).</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6a11cb&height=3&width=100%" width="100%"/>
 
@@ -127,9 +137,13 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
 
 **AI & Tools**
 <br>
-<img src="https://img.shields.io/badge/Runway-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
+<img src="https://img.shields.io/badge/Runway-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,python,cpp,git,figma,photoshop,premiere,ae" />
 
 </div>
 
@@ -190,5 +204,7 @@ Cinematic slowed/reverb car edits for Facebook — BMW & Mercedes-AMG content, s
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:6a11cb,100:0e75b6&height=180&section=footer" width="100%"/>

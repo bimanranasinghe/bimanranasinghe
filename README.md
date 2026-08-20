@@ -42,6 +42,8 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/bimanranasinghe">
     <img src="https://github-readme-stats.vercel.app/api?username=bimanranasinghe&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Biman's GitHub Stats" width="48%" />
@@ -60,6 +62,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin-right: 15px;" />
   </a>
 </p>
-<div align="center">
-  <img src="https://i.postimg.cc/xCHt4kSK/Gemini-Generated-Image-mnfudjmnfudjmnfu.jpg" alt="Biman Ranasinghe Intro Banner" width="100%" />
-</div>

@@ -60,3 +60,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin-right: 15px;" />
   </a>
 </p>
+<div align="center">
+  <img src="[YOUR_UPLOADED_IMAGE_URL_HERE](https://i.postimg.cc/xCHt4kSK/Gemini-Generated-Image-mnfudjmnfudjmnfu.jpg)" alt="Biman Ranasinghe Intro Banner" width="100%" />
+</div>
